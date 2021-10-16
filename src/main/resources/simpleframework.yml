@@ -1,0 +1,3 @@
+simpleframework:
+  scan:
+    packages: org.simpleframework
